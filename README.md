@@ -202,7 +202,3 @@ Database storage of intruder logs
 
 B Dileep Kumar Reddy
 
-⭐ Why This Project Stands Out
-
-This is not just a computer vision project.
-It is a complete AI-driven surveillance system integrating speech, vision, language models, and automation into a single intelligent pipeline.
